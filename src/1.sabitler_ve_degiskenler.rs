@@ -33,7 +33,7 @@ Kisaca programci her sabit icin degeri de turu de yazmak zorundadir.
 fn main()
 {
     /*********\
-    DEgIsKENLER
+    DEGISKENLER
     \*       */
 
     /*
@@ -134,7 +134,8 @@ fn main()
     let g: &str = "Merhaba";
 
     // 2. Degisken mut ile degisebilir yapildiginda onu degistirmek mumkun olur ancak golgeleme degismez degiskeni tek basina degisebilir yapmaz.
-        //  KAPSAM TURLERI  \\
+    
+    //  KAPSAM TURLERI  \\
 
     /*
     1. Blok Kapsami: Icerisinde tanimlanan degiskenler disinda kullanilamaz. Bu tum kapsamlar icin gecerlidir. Deger dondurebilir. ornegi yukaridadir.
